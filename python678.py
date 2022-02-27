@@ -1,0 +1,5 @@
+print("p.o katras")
+print("pin 828113")
+print("p.s katras")
+print("dis dhanbad")
+print("state jharkhand")
